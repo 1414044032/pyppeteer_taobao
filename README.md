@@ -1,0 +1,2 @@
+# pyppeteer_taobao
+基于pyppeteer实现对淘宝网的模拟登陆
