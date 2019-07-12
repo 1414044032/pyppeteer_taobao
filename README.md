@@ -5,5 +5,5 @@
 ## 必备条件：
 安装：python版本3.5以上
 然后 `pip install pyppeteer`
-初次运行会下载chrome。不能翻墙的话查看这篇教程：https://blog.csdn.net/xc_zhou/article/details/95009213
+初次运行会下载chrome。需要翻墙状态
 最后运行脚本。就可以看到自动启动浏览器然后登陆成功后保存cookie。
